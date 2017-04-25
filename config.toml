@@ -1,0 +1,46 @@
+## Basic Configuration
+baseurl = "https://tchssk.github.io/"
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Taichi Sasaki"
+title = "Taichi Sasaki"
+
+theme = "hugo-goa"
+
+## Site Settings
+[params]
+author = "Taichi Sasaki"
+intro = "A web developer who loves Ginger Ale."
+description = "I'm a [Go](https://golang.org) programmer and a member of its framework [goa](https://github.com/goadesign)."
+authorimage = "tchssk.jpg"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "A web developer who loves Ginger Ale."
+keywords = "developer,programmer,web,golang,goa"
+
+# Social Accounts
+[params.social]
+github = "tchssk"
+twitter = "tchssk"
+email = "tchsskk@gmail.com"
+
+## Extras
+[params.extra]
+copyright = "© 2017 Taichi Sasaki."
+poweredby = true
+hightlightjs = true
+
+## Main Menu
+[[menu.main]]
+    name = "blog"
+    weight = 100
+    identifier = "blog"
+    url = "http://tchssk.hatenablog.com/"
