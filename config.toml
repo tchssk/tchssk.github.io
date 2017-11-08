@@ -49,3 +49,8 @@ hightlightjs = true
     weight = 200
     identifier = "talks"
     url = "/talks/"
+[[menu.main]]
+    name = "qiita"
+    weight = 300
+    identifier = "qiita"
+    url = "https://qiita.com/tchssk"
