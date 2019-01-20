@@ -30,6 +30,7 @@ keywords = "developer,programmer,web,golang,goa"
 [params.social]
 github = "tchssk"
 twitter = "tchssk"
+medium = "@tchssk"
 email = "tchsskk@gmail.com"
 
 ## Extras
