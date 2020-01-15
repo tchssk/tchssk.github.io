@@ -49,7 +49,7 @@ hightlightjs = true
     name = "blog"
     weight = 100
     identifier = "blog"
-    url = "http://tchssk.hatenablog.com/"
+    url = "https://tchssk.hatenablog.com/"
 [[menu.main]]
     name = "talks"
     weight = 200
