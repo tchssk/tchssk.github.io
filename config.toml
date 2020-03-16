@@ -60,3 +60,8 @@ hightlightjs = true
     weight = 300
     identifier = "qiita"
     url = "https://qiita.com/tchssk"
+[[menu.main]]
+    name = "apps"
+    weight = 400
+    identifier = "apps"
+    url = "/apps/"
