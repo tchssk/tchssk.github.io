@@ -6,10 +6,19 @@
     <description>Recent content on Taichi Sasaki</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 21 Jun 2017 18:31:17 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2020 20:23:17 +0900</lastBuildDate>
     
 	<atom:link href="https://tchssk.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Apps</title>
+      <link>https://tchssk.github.io/apps/</link>
+      <pubDate>Mon, 16 Mar 2020 20:23:17 +0900</pubDate>
+      
+      <guid>https://tchssk.github.io/apps/</guid>
+      <description>TAGIRON Memo A web application for TAGIRON.</description>
+    </item>
     
     <item>
       <title>Talks</title>
