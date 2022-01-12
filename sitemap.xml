@@ -1,27 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://tchssk.github.io/apps/</loc>
     <lastmod>2020-03-16T20:23:17+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tchssk.github.io/talks/</loc>
     <lastmod>2017-06-21T18:31:17+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tchssk.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tchssk.github.io/tags/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tchssk.github.io/</loc>
   </url>
-  
 </urlset>
