@@ -43,6 +43,7 @@ email = "tchsskk@gmail.com"
 copyright = "© 2023 Taichi Sasaki."
 poweredby = true
 hightlightjs = true
+socialmarkup = true
 
 ## Main Menu
 [[menu.main]]
