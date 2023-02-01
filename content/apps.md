@@ -14,3 +14,7 @@ title = "Apps"
 ## [TAGIRON Memo](//tchssk.github.io/tagiron-memo/)
 
 A web application for TAGIRON.
+
+## [Character Viewer](//tchssk.github.io/character-viewer/)
+
+A minimal character viewer.
