@@ -5,26 +5,21 @@
     <link>https://tchssk.github.io/</link>
     <description>Recent content on Taichi Sasaki</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language><atom:link href="https://tchssk.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language>
+    <atom:link href="https://tchssk.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Apps</title>
       <link>https://tchssk.github.io/apps/</link>
       <pubDate>Mon, 16 Mar 2020 20:23:17 +0900</pubDate>
-      
       <guid>https://tchssk.github.io/apps/</guid>
-      <description>TAGIRON Memo A web application for TAGIRON.
-Character Viewer A minimal character viewer.</description>
+      <description>TAGIRON Memo A web application for TAGIRON.&#xA;Character Viewer A minimal character viewer.</description>
     </item>
-    
     <item>
       <title>Talks</title>
       <link>https://tchssk.github.io/talks/</link>
       <pubDate>Wed, 21 Jun 2017 18:31:17 +0900</pubDate>
-      
       <guid>https://tchssk.github.io/talks/</guid>
-      <description>The improvement and enhancement of goa 2017/06/17 #goastudy
-How I create a Microservice using goa 2016/09/06 #goadesigntokyo</description>
+      <description>The improvement and enhancement of goa 2017/06/17 #goastudy&#xA;How I create a Microservice using goa 2016/09/06 #goadesigntokyo</description>
     </item>
-    
   </channel>
 </rss>
