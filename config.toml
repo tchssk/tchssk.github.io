@@ -41,7 +41,7 @@ email = "tchsskk@gmail.com"
 
 ## Extras
 [params.extra]
-copyright = "© 2023 Taichi Sasaki."
+copyright = "© 2024 Taichi Sasaki."
 poweredby = true
 hightlightjs = true
 socialmarkup = true
