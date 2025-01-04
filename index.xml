@@ -4,22 +4,23 @@
     <title>Taichi Sasaki</title>
     <link>https://tchssk.github.io/</link>
     <description>Recent content on Taichi Sasaki</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-US</language>
+    <lastBuildDate>Mon, 16 Mar 2020 20:23:17 +0900</lastBuildDate>
     <atom:link href="https://tchssk.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Apps</title>
       <link>https://tchssk.github.io/apps/</link>
       <pubDate>Mon, 16 Mar 2020 20:23:17 +0900</pubDate>
       <guid>https://tchssk.github.io/apps/</guid>
-      <description>TAGIRON Memo A web application for TAGIRON.&#xA;Character Viewer A minimal character viewer.</description>
+      <description>&lt;h2 id=&#34;tagiron-memotchsskgithubiotagiron-memo&#34;&gt;&lt;a href=&#34;//tchssk.github.io/tagiron-memo/&#34;&gt;TAGIRON Memo&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;A web application for TAGIRON.&lt;/p&gt;&#xA;&lt;h2 id=&#34;character-viewertchsskgithubiocharacter-viewer&#34;&gt;&lt;a href=&#34;//tchssk.github.io/character-viewer/&#34;&gt;Character Viewer&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;A minimal character viewer.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Talks</title>
       <link>https://tchssk.github.io/talks/</link>
       <pubDate>Wed, 21 Jun 2017 18:31:17 +0900</pubDate>
       <guid>https://tchssk.github.io/talks/</guid>
-      <description>The improvement and enhancement of goa 2017/06/17 #goastudy&#xA;How I create a Microservice using goa 2016/09/06 #goadesigntokyo</description>
+      <description>&lt;h2 id=&#34;the-improvement-and-enhancement-of-goatchsskgithubiogoastudy&#34;&gt;&lt;a href=&#34;//tchssk.github.io/goastudy/&#34;&gt;The improvement and enhancement of goa&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;2017/06/17 &lt;a href=&#34;https://istyle.connpass.com/event/57455/&#34;&gt;#goastudy&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;how-i-create-a-microservice-using-goatchsskgithubiogoadesigntokyo&#34;&gt;&lt;a href=&#34;//tchssk.github.io/goadesigntokyo/&#34;&gt;How I create a Microservice using goa&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;2016/09/06 &lt;a href=&#34;https://connpass.com/event/36964/&#34;&gt;#goadesigntokyo&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
